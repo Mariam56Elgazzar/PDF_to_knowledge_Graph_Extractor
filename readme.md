@@ -1,7 +1,4 @@
-تمام. ده **README واضح، مرتب، وجاهز للاستخدام** — من غير فلسفة زيادة، ومناسب سواء GitHub أو عرض مشروع 👌
-هكتبه بالإنجليزي لأنه README، وبأسلوب عملي.
 
----
 
 # 📄 PDF to Knowledge Graph Extractor
 
@@ -170,4 +167,5 @@ streamlit run app.py
 ## 📜 License
 
 This project is intended for **research and educational purposes**.
+
 
